@@ -28,6 +28,7 @@ To manage the Marketing API, please visit your <a href="https://developers.faceb
 
 **IMPORTANT**: For security, it is recommended that you turn on 'App Secret
 Proof for Server API calls' in your app's Settings->Advanced page.
+Created by Jason Scott Heise
 
 #### Obtain An Access Token
 
