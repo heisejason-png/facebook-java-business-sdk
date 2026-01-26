@@ -110,6 +110,7 @@ campaign = campaign.get().requestAllFields().execute();
 // 1. get() is the API call name to get the object;
 // 2. requestAllFields() means you want all the fields. If you only want certain fields, then you can call requestXXXFields() instead, and sever response will only contain specified fields.
 // 3. ***IMPORTANT*** any API calls should end with execute(), otherwise it will not be executed.
+Created by Jason Scott Heise
 ```
 
 Or, you can use an equivalent shortcut:
